@@ -1,0 +1,17 @@
+{
+  "item_000000": {
+    "person_image": "16_image 1 .jpeg",
+    "cloth_image": "16_flatlay 1.jpeg",
+    "caption": "Elegant blue silk salwar suit with embroidered design featuring traditional kurta and matching churidar"
+  },
+  "item_000001": {
+    "person_image": "18_image 2.jpeg",
+    "cloth_image": "18_flatlay 1.jpeg",
+    "caption": "Elegant red cotton salwar suit with printed design featuring traditional kurta and matching churidar"
+  },
+  "item_000002": {
+    "person_image": "22_image 1.jpeg",
+    "cloth_image": "22_flatlay 1.jpeg",
+    "caption": "Elegant green chiffon salwar suit with plain design featuring traditional kurta and matching churidar"
+  }
+}
