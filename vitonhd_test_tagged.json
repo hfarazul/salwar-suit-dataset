@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "file_name": "16_image 1 .jpeg",
+      "category_name": "SALWAR_SUITS",
+      "tag_info": [
+        {
+          "tag_name": "item",
+          "tag_category": "Salwar Suit"
+        },
+        {
+          "tag_name": "details",
+          "tag_category": "Traditional"
+        },
+        {
+          "tag_name": "looks",
+          "tag_category": "Ethnic"
+        }
+      ],
+      "caption": "Elegant blue silk salwar suit with embroidered design featuring traditional kurta and matching churidar"
+    },
+    {
+      "file_name": "18_image 2.jpeg",
+      "category_name": "SALWAR_SUITS",
+      "tag_info": [
+        {
+          "tag_name": "item",
+          "tag_category": "Salwar Suit"
+        },
+        {
+          "tag_name": "details",
+          "tag_category": "Traditional"
+        },
+        {
+          "tag_name": "looks",
+          "tag_category": "Ethnic"
+        }
+      ],
+      "caption": "Elegant red cotton salwar suit with printed design featuring traditional kurta and matching churidar"
+    },
+    {
+      "file_name": "22_image 1.jpeg",
+      "category_name": "SALWAR_SUITS",
+      "tag_info": [
+        {
+          "tag_name": "item",
+          "tag_category": "Salwar Suit"
+        },
+        {
+          "tag_name": "details",
+          "tag_category": "Traditional"
+        },
+        {
+          "tag_name": "looks",
+          "tag_category": "Ethnic"
+        }
+      ],
+      "caption": "Elegant green chiffon salwar suit with plain design featuring traditional kurta and matching churidar"
+    }
+  ]
+}
